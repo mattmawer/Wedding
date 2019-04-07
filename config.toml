@@ -1,0 +1,74 @@
+# Site settings
+baseURL = "//wedding.mattmawer.co.uk"
+languageCode = "en-US"
+title = "Our wedding: Matt & Sarah"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2018 Matt Mawer"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Matt Mawer"
+  description = "Website for details about Matt & Sarah's wedding"
+  shareImage = ""
+  twitterHandle = ""
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/RRH-160730-VintageWhite-8178548_GPR.JPG"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "On the day..."
+
+      [[params.links.list1.link]]
+        text = "Schedule"
+        url = "/schedule"
+
+      [[params.links.list1.link]]
+        text = "Gifts"
+        url = "/gifts"
+
+
+	# Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Logistics..."
+
+      [[params.links.list2.link]]
+        text = "Venue"
+        url = "https://www.nationaltrust.org.uk/quarry-bank"
+
+      [[params.links.list2.link]]
+        text = "Hotels"
+        url = "http://bit.ly/hotels-quarry-bank"
+
+ 
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
