@@ -1,8 +1,6 @@
 +++
 title = "Our wedding: Matt & Sarah"
-tagline = "May 18th 2019"
+tagline = "All done!"
 +++
 
-Day [schedule](/schedule) and [Tableplan](/2019-05-09_Final table plan.pdf) are now both available. A few people have also asked us about [wedding gifts](/gifts), so I have finally updated the link below with more information.
-
-There is no specific dress code. Smart casual is our advice. Please wear something comfortable: it's a party, not a job interview.
+Huge thanks to all those who attended on the day. We had a wonderful time and we hope you did too. There is an [preliminary photo album](http://bit.ly/18-May-2019-photos) to view: much more to follow once the professional photos appear in a few weeks.
