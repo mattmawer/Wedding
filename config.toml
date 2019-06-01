@@ -43,29 +43,11 @@ copyright = "&copy;2018 Matt Mawer"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "On the day..."
+      heading = "After the wedding..."
 
       [[params.links.list1.link]]
-        text = "Schedule"
-        url = "/schedule"
-
-      [[params.links.list1.link]]
-        text = "Gifts"
-        url = "/gifts"
-
-
-	# Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Logistics..."
-
-      [[params.links.list2.link]]
-        text = "Venue"
-        url = "https://www.nationaltrust.org.uk/quarry-bank"
-
-      [[params.links.list2.link]]
-        text = "Hotels"
-        url = "http://bit.ly/hotels-quarry-bank"
+        text = "Photos"
+        url = "http://bit.ly/18-May-2019-photos"
 
  
   # The original template is released under the Creative Commons Attribution 3.0 License.
